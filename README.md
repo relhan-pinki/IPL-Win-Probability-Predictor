@@ -40,20 +40,21 @@ Historical IPL match data containing:
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 - Accuracy   
 
 ---
 
-## 🚀 Features
+## Features
 - Predicts win probability for ongoing matches  
 - Handles dynamic match situations  
 - Simple and interpretable model
 
   ---
-  ## 🧠 Skills Demonstrated
+  ## Skills Demonstrated
+- Python
+- Machine Learning
 - Data Preprocessing  
-- Feature Engineering  
-- Machine Learning  
+- Feature Engineering    
 - Model Evaluation  
 - Sports Analytics
