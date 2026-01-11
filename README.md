@@ -8,7 +8,7 @@ This project uses **supervised machine learning** to estimate a team’s chances
 
 ---
 
-## 🛠️ Technology used
+## Technology used
 - Python  
 - Pandas, NumPy  
 - Scikit-learn    
@@ -16,7 +16,7 @@ This project uses **supervised machine learning** to estimate a team’s chances
 
 ---
 
-## 📊 Dataset
+## Dataset
 Historical IPL match data containing:
 - Batting and bowling teams  
 - Runs scored  
@@ -26,7 +26,7 @@ Historical IPL match data containing:
 
 ---
 
-## ⚙️ Approach
+## Approach
 - Data cleaning and preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Feature engineering  
@@ -35,8 +35,8 @@ Historical IPL match data containing:
 
 ---
 
-## 🤖 Machine Learning Model
-- Logistic Regression / Random Forest (classification-based approach)
+## Machine Learning Model
+- Logistic Regression (classification-based approach)
 
 ---
 
